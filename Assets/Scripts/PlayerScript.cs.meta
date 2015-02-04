@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 0ad8479ae0dc042b9a1c6e04bebd8267
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - mario: {fileID: 8300000, guid: 557da63b2c26c4d4da747628646c2e15, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

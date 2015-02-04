@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 63d4d85c7d0ab48e6acbb0e0cd03424a
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - target: {instanceID: 0}
+  - clap: {fileID: 8300000, guid: 65bf31ae998bc4c328e49321879cd505, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
